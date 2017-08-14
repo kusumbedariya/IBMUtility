@@ -1,0 +1,34 @@
+User-Agent: *
+Disallow:
+Allow: /justcheckups.com/
+Allow: /index.jsp
+Allow: /packages
+Allow: /Contact
+Allow: /About
+Disallow: /resources/
+Disallow: /booking?name=Thyroid%20Profile%20Rs.%20250/-%20per%20person
+Disallow: /20ybooking?name=Aarogyam%2020Y%20Profile(Rs%202400/-%20for%202%20persons)
+Disallow: /booking?name=Pro%20Aarogyam%201.7%20Profile%20Rs.%202400/-%20per%20person
+Disallow: /booking?name=Pro%20Aarogyam%201.3%20Profile%20Rs.%201450/-%20per%20person
+Disallow: /booking?name=Pro%20Aarogyam%201.2%20Profile%20Rs.%201000/-%20per%20person
+Disallow: /booking?name=Pro%20Aarogyam%201.1%20Profile%20Rs.%20850/-%20per%20person
+Disallow: /booking?name=Lipid%20Profile%20Rs.%20505/-%20per%20person
+Disallow: /booking?name=Vitamin%20D%20Profile%20Rs.%20845/-%20per%20person
+Disallow: /booking?name=Healthscreen%20M%20Profile%20Rs.%20600/-%20per%20person
+Disallow: /booking?name=Healthscreen%20A%20Profile%20Rs.%201200/-%20per%20person
+Disallow: /booking?name=Healthscreen%20B%20Profile%20Rs.%201800/-%20per%20person
+Disallow: /booking?name=Healthscreen%20C%20Profile%20Rs.%202000/-%20per%20person
+Disallow: /booking?name=Healthscreen%20D%20Profile%20Rs.%201600/-%20per%20person
+Disallow: /booking?name=Wellness%20Gold%20Male%20Profile%20Rs.%203999/-%20per%20person
+Disallow: /booking?name=Wellness%20Gold%20Female%20Profile%20Rs.%204999/-%20per%20person
+Disallow: /booking?name=Wellness%20Platinum%20Male%20Profile%20Rs.%205999/-%20per%20person
+Disallow: /booking?name=Wellness%20Platinum%20Female%20Profile%20Rs.%206999/-%20per%20person
+Disallow: /booking
+Disallow: /20ybooking
+Disallow: /bookingsummary
+Disallow: /querysummary
+Disallow: /terms
+Disallow: /emailer
+
+
+Sitemap: http://justcheckups.com/sitemap.xml
